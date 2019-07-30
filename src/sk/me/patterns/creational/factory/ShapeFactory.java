@@ -1,4 +1,4 @@
-package sk.me.patterns.creational.factory_pattern;
+package sk.me.patterns.creational.factory;
 
 public class ShapeFactory {
 

@@ -1,4 +1,4 @@
-package sk.me.patterns.creational.abstract_factory_parrent;
+package sk.me.patterns.creational.factory;
 
 public class Square implements Shape {
 
@@ -6,4 +6,5 @@ public class Square implements Shape {
     public void draw() {
         System.out.println("Inside Square::draw() method.");
     }
+
 }
