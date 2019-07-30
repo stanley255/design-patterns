@@ -2,6 +2,7 @@ package sk.me;
 
 import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
 import sk.me.patterns.creational.factory.FactoryPatternDemo;
+import sk.me.patterns.creational.singleton.SingletonPatternDemo;
 
 public class Main {
 
@@ -14,5 +15,9 @@ public class Main {
         System.out.println("***Begin AbstractFactoryPatternDemo***");
         AbstractFactoryPatternDemo.main(new String[]{});
         System.out.println("***End AbstractFactoryPatternDemo***");
+        // Run SingletonPatternDemo
+        System.out.println("***Begin SingletonPatternDemo***");
+        SingletonPatternDemo.main(new String[]{});
+        System.out.println("***End SingletonPatternDemo***");
     }
 }
