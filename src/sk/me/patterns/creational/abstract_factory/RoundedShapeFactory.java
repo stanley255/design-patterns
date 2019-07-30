@@ -1,15 +1,15 @@
-package sk.me.patterns.creational.abstract_factory_parrent;
+package sk.me.patterns.creational.abstract_factory;
 
-public class ShapeFactory extends AbstractFactory {
+public class RoundedShapeFactory extends AbstractFactory {
 
     @Override
     Shape getShape(String shapeType) {
         if (shapeType == null) {
             return null;
         } else if (shapeType.equalsIgnoreCase("RECTANGLE")) {
-            return new Rectangle();
+            return new RoundedRectangle();
         } else if (shapeType.equalsIgnoreCase("SQUARE")) {
-            return new Square();
+            return new RoundedSquare();
         }
         return null;
     }

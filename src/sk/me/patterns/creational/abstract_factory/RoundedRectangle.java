@@ -1,4 +1,4 @@
-package sk.me.patterns.creational.abstract_factory_parrent;
+package sk.me.patterns.creational.abstract_factory;
 
 public class RoundedRectangle implements Shape {
 

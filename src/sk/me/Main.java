@@ -1,7 +1,7 @@
 package sk.me;
 
-import sk.me.patterns.creational.abstract_factory_parrent.AbstractFactoryPatternDemo;
-import sk.me.patterns.creational.factory_pattern.FactoryPatternDemo;
+import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
+import sk.me.patterns.creational.factory.FactoryPatternDemo;
 
 public class Main {
 
