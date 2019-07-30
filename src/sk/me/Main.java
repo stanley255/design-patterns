@@ -3,6 +3,7 @@ package sk.me;
 import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
 import sk.me.patterns.creational.builder.BuilderPatternDemo;
 import sk.me.patterns.creational.factory.FactoryPatternDemo;
+import sk.me.patterns.creational.prototype.PrototypePatternDemo;
 import sk.me.patterns.creational.singleton.SingletonPatternDemo;
 
 public class Main {
@@ -24,5 +25,9 @@ public class Main {
         System.out.println("***Begin BuilderPatternDemo***");
         BuilderPatternDemo.main(new String[]{});
         System.out.println("***End BuilderPatternDemo***\n\n");
+        // Run PrototypePatternDemo
+        System.out.println("***Begin PrototypePatternDemo***");
+        PrototypePatternDemo.main(new String[]{});
+        System.out.println("***End PrototypePatternDemo***\n\n");
     }
 }
