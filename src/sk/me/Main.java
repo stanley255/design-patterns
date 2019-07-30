@@ -6,6 +6,7 @@ import sk.me.patterns.creational.factory.FactoryPatternDemo;
 import sk.me.patterns.creational.prototype.PrototypePatternDemo;
 import sk.me.patterns.creational.singleton.SingletonPatternDemo;
 import sk.me.patterns.structural.adapter.AdapterPatternDemo;
+import sk.me.patterns.structural.bridge.BridgePatternDemo;
 
 public class Main {
 
@@ -34,5 +35,9 @@ public class Main {
         System.out.println("***Begin AdapterPatternDemo***");
         AdapterPatternDemo.main(new String[]{});
         System.out.println("***End AdapterPatternDemo***\n\n");
+        // Run BridgePatternDemo
+        System.out.println("***Begin BridgePatternDemo***");
+        BridgePatternDemo.main(new String[]{});
+        System.out.println("***End BridgePatternDemo***\n\n");
     }
 }
