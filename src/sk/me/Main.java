@@ -7,6 +7,7 @@ import sk.me.patterns.creational.prototype.PrototypePatternDemo;
 import sk.me.patterns.creational.singleton.SingletonPatternDemo;
 import sk.me.patterns.structural.adapter.AdapterPatternDemo;
 import sk.me.patterns.structural.bridge.BridgePatternDemo;
+import sk.me.patterns.structural.composite.CompositePatternDemo;
 import sk.me.patterns.structural.filter.FilterPatternDemo;
 
 public class Main {
@@ -44,5 +45,9 @@ public class Main {
         System.out.println("***Begin FilterPatternDemo***");
         FilterPatternDemo.main(new String[]{});
         System.out.println("***End FilterPatternDemo***\n\n");
+        // Run CompositePatternDemo
+        System.out.println("***Begin CompositePatternDemo***");
+        CompositePatternDemo.main(new String[]{});
+        System.out.println("***End CompositePatternDemo***\n\n");
     }
 }
