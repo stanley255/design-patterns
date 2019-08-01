@@ -1,5 +1,6 @@
 package sk.me;
 
+import sk.me.patterns.behavioral.chain.ChainPatternDemo;
 import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
 import sk.me.patterns.creational.builder.BuilderPatternDemo;
 import sk.me.patterns.creational.factory.FactoryPatternDemo;
@@ -69,5 +70,9 @@ public class Main {
         System.out.println("***Begin ProxyPatternDemo***");
         ProxyPatternDemo.main(new String[]{});
         System.out.println("***End ProxyPatternDemo***\n\n");
+        // Run ChainPatternDemo
+        System.out.println("***Begin ChainPatternDemo***");
+        ChainPatternDemo.main(new String[]{});
+        System.out.println("***End ChainPatternDemo***\n\n");
     }
 }
