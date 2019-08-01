@@ -12,6 +12,7 @@ import sk.me.patterns.structural.decorator.DecoratorPatternDemo;
 import sk.me.patterns.structural.facade.FacadePatternDemo;
 import sk.me.patterns.structural.filter.FilterPatternDemo;
 import sk.me.patterns.structural.flyweight.FlyweightPatternDemo;
+import sk.me.patterns.structural.proxy.ProxyPatternDemo;
 
 public class Main {
 
@@ -64,5 +65,9 @@ public class Main {
         System.out.println("***Begin FlyweightPatternDemo***");
         FlyweightPatternDemo.main(new String[]{});
         System.out.println("***End FlyweightPatternDemo***\n\n");
+        // Run ProxyPatternDemo
+        System.out.println("***Begin ProxyPatternDemo***");
+        ProxyPatternDemo.main(new String[]{});
+        System.out.println("***End ProxyPatternDemo***\n\n");
     }
 }
