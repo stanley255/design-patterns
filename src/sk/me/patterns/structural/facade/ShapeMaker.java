@@ -12,15 +12,15 @@ public class ShapeMaker {
         this.square = new Square();
     }
 
-    public void drawCircle(){
+    public void drawCircle() {
         this.circle.draw();
     }
 
-    public void drawRectangle(){
+    public void drawRectangle() {
         this.rectangle.draw();
     }
 
-    public void drawSquare(){
+    public void drawSquare() {
         this.square.draw();
     }
 

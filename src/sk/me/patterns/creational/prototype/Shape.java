@@ -1,8 +1,8 @@
 package sk.me.patterns.creational.prototype;
 
 public abstract class Shape implements Clonable {
-    private String id;
     protected String type;
+    private String id;
 
     abstract void draw();
 

@@ -1,4 +1,5 @@
 package sk.me.patterns.structural.bridge;
+
 // Concrete implementation 2 for bridge pattern
 public class Assemble implements Workshop {
 

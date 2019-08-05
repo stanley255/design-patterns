@@ -9,7 +9,7 @@ public class LeadProgrammer extends Observer {
 
     @Override
     public void update() {
-        if(this.programmer.getState().equalsIgnoreCase("Successful")) {
+        if (this.programmer.getState().equalsIgnoreCase("Successful")) {
             System.out.println("Lead Programmer is proud of his Programmer.");
         } else {
             System.out.println("Lead Programmer is not proud of his Programmer.");

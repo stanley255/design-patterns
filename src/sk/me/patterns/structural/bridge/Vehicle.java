@@ -1,4 +1,5 @@
 package sk.me.patterns.structural.bridge;
+
 // Abstraction in bridge pattern
 public abstract class Vehicle {
     protected Workshop workShop1;

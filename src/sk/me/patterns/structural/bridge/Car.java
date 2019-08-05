@@ -1,4 +1,5 @@
 package sk.me.patterns.structural.bridge;
+
 // Refine abstraction 1 in bridge pattern
 public class Car extends Vehicle {
 
