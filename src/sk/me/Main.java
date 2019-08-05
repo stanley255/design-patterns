@@ -1,6 +1,7 @@
 package sk.me;
 
 import sk.me.patterns.behavioral.chain.ChainPatternDemo;
+import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.strategy.StrategyPatternDemo;
 import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
 import sk.me.patterns.creational.builder.BuilderPatternDemo;
@@ -79,5 +80,10 @@ public class Main {
         System.out.println("***Begin StrategyPatternDemo***");
         StrategyPatternDemo.main(new String[]{});
         System.out.println("***End StrategyPatternDemo***\n\n");
+        // Run ObserverPatternDemo
+        System.out.println("***Begin ObserverPatternDemo***");
+        ObserverPatternDemo.main(new String[]{});
+        System.out.println("***End ObserverPatternDemo***\n\n");
     }
+
 }
