@@ -8,7 +8,6 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * what are design patterns and why they are useful
 * how can design patterns hepls in code structuring
 * what are some drawbacks of design patterns
-* that patterns should be used only in scenatios w
 
 ---
 ### Creational Patterns
@@ -29,15 +28,15 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Proxy](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/structural/proxy)
 
 ### Behavioral Patterns
-* [Interpreter]() - **TODO**
-* [Template Method/Pattern]()
+* Interpreter - **TODO**
+* Template Method/Pattern - **TODO**
 * [Chain of Responsibility](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/chain)
-* [Command]() - **TODO**
-* [Iterator]() - **TODO**
-* [Mediator]() - **TODO**
-* [Memento]() - **TODO**
+* Command - **TODO**
+* Iterator - **TODO**
+* Mediator - **TODO**
+* Memento - **TODO**
 * [Observer](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/observer)
 * [State](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/state)
 * [Strategy](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/strategy)
-* [Visitor]() - **TODO**
+* Visitor - **TODO**
 
