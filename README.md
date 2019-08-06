@@ -28,7 +28,7 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Proxy](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/structural/proxy)
 
 ### Behavioral Patterns
-* Interpreter - **TODO**
+* [Interpreter] - (https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/interpreter)
 * Template Method/Pattern - **TODO**
 * [Chain of Responsibility](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/chain)
 * Command - **TODO**
