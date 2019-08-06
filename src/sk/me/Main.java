@@ -10,6 +10,7 @@ import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.state.StatePatternDemo;
 import sk.me.patterns.behavioral.strategy.StrategyPatternDemo;
 import sk.me.patterns.behavioral.template.TemplatePatternDemo;
+import sk.me.patterns.behavioral.visitor.VisitorPatternDemo;
 import sk.me.patterns.creational.abstract_factory.AbstractFactoryPatternDemo;
 import sk.me.patterns.creational.builder.BuilderPatternDemo;
 import sk.me.patterns.creational.factory.FactoryPatternDemo;
@@ -119,6 +120,10 @@ public class Main {
         System.out.println("***Begin MementoPatternDemo***");
         MementoPatternDemo.main(new String[]{});
         System.out.println("***End MementoPatternDemo***\n\n");
+        // Run VisitorPatternDemo
+        System.out.println("***Begin VisitorPatternDemo***");
+        VisitorPatternDemo.main(new String[]{});
+        System.out.println("***End VisitorPatternDemo***\n\n");
     }
 
 }
