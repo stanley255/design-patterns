@@ -5,6 +5,7 @@ import sk.me.patterns.behavioral.command.CommandPatternDemo;
 import sk.me.patterns.behavioral.interpreter.InterpreterPatternDemo;
 import sk.me.patterns.behavioral.iterator.IteratorPatternDemo;
 import sk.me.patterns.behavioral.mediator.MediatorPatternDemo;
+import sk.me.patterns.behavioral.memento.MementoPatternDemo;
 import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.state.StatePatternDemo;
 import sk.me.patterns.behavioral.strategy.StrategyPatternDemo;
@@ -114,6 +115,10 @@ public class Main {
         System.out.println("***Begin MediatorPatternDemo***");
         MediatorPatternDemo.main(new String[]{});
         System.out.println("***End MediatorPatternDemo***\n\n");
+        // Run MementoPatternDemo
+        System.out.println("***Begin MementoPatternDemo***");
+        MementoPatternDemo.main(new String[]{});
+        System.out.println("***End MementoPatternDemo***\n\n");
     }
 
 }
