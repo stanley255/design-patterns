@@ -1,6 +1,7 @@
 package sk.me;
 
 import sk.me.patterns.behavioral.chain.ChainPatternDemo;
+import sk.me.patterns.behavioral.interpreter.InterpreterPatternDemo;
 import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.state.StatePatternDemo;
 import sk.me.patterns.behavioral.strategy.StrategyPatternDemo;
@@ -89,6 +90,10 @@ public class Main {
         System.out.println("***Begin StatePatternDemo***");
         StatePatternDemo.main(new String[]{});
         System.out.println("***End StatePatternDemo***\n\n");
+        // Run InterpreterPatternDemo
+        System.out.println("***Begin InterpreterPatternDemo***");
+        InterpreterPatternDemo.main(new String[]{});
+        System.out.println("***End InterpreterPatternDemo***\n\n");
     }
 
 }
