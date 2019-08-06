@@ -3,6 +3,7 @@ package sk.me;
 import sk.me.patterns.behavioral.chain.ChainPatternDemo;
 import sk.me.patterns.behavioral.command.CommandPatternDemo;
 import sk.me.patterns.behavioral.interpreter.InterpreterPatternDemo;
+import sk.me.patterns.behavioral.iterator.IteratorPatternDemo;
 import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.state.StatePatternDemo;
 import sk.me.patterns.behavioral.strategy.StrategyPatternDemo;
@@ -104,6 +105,10 @@ public class Main {
         System.out.println("***Begin CommandPatternDemo***");
         CommandPatternDemo.main(new String[]{});
         System.out.println("***End CommandPatternDemo***\n\n");
+        // Run IteratorPatternDemo
+        System.out.println("***Begin IteratorPatternDemo***");
+        IteratorPatternDemo.main(new String[]{});
+        System.out.println("***End IteratorPatternDemo***\n\n");
     }
 
 }
