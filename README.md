@@ -32,7 +32,7 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Template Method/Pattern](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/template)
 * [Chain of Responsibility](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/chain)
 * [Command](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/command)
-* Iterator - **TODO**
+* [Iterator](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/iterator)
 * Mediator - **TODO**
 * Memento - **TODO**
 * [Observer](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/observer)
