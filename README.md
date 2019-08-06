@@ -38,5 +38,5 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Observer](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/observer)
 * [State](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/state)
 * [Strategy](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/strategy)
-* Visitor - **TODO**
+* [Visitor](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/visitor)
 
