@@ -6,7 +6,7 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Geeks For Geeks](https://www.geeksforgeeks.org/software-design-patterns/)
 ## What I've Learned
 * what are design patterns and why they are useful
-* how can design patterns hepls in code structuring
+* how can design patterns helps in code structuring
 * what are some drawbacks of design patterns
 
 ---
@@ -34,7 +34,7 @@ Project that aims to demonstrate simple examples of various design patterns. The
 * [Command](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/command)
 * [Iterator](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/iterator)
 * [Mediator](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/mediator)
-* Memento - **TODO**
+* [Memento](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/memento)
 * [Observer](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/observer)
 * [State](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/state)
 * [Strategy](https://github.com/stanley255/design-patterns/tree/master/src/sk/me/patterns/behavioral/strategy)
