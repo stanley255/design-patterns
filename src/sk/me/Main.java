@@ -1,6 +1,7 @@
 package sk.me;
 
 import sk.me.patterns.behavioral.chain.ChainPatternDemo;
+import sk.me.patterns.behavioral.command.CommandPatternDemo;
 import sk.me.patterns.behavioral.interpreter.InterpreterPatternDemo;
 import sk.me.patterns.behavioral.observer.ObserverPatternDemo;
 import sk.me.patterns.behavioral.state.StatePatternDemo;
@@ -99,6 +100,10 @@ public class Main {
         System.out.println("***Begin TemplatePatternDemo***");
         TemplatePatternDemo.main(new String[]{});
         System.out.println("***End TemplatePatternDemo***\n\n");
+        // Run CommandPatternDemo
+        System.out.println("***Begin CommandPatternDemo***");
+        CommandPatternDemo.main(new String[]{});
+        System.out.println("***End CommandPatternDemo***\n\n");
     }
 
 }
